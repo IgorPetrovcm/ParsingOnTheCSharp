@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/LoadUsing_HtmlAddress
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/LoadUsing_HtmlAddress.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/LoadUsing_HtmlAddress.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/LoadUsing_HtmlAddress.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/LoadUsing_HtmlAddress.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.csproj.CopyComplete
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/refint/LoadUsing_HtmlAddress.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/LoadUsing_HtmlAddress.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/obj/Debug/net7.0/ref/LoadUsing_HtmlAddress.dll

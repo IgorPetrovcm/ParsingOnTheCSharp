@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oOlX7JWL6YQIPOPNaUFUK/UEJQViEDK+/y+dkqNaWWuWpg5PlPQy/lStGARMyr5WPG8sMb8OkrhonbKrytp5Q==",
+  "success": true,
+  "projectFilePath": "/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlAddress/LoadUsing_HtmlAddress.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/htmlagilitypack/1.11.55/htmlagilitypack.1.11.55.nupkg.sha512"
+  ],
+  "logs": []
+}
