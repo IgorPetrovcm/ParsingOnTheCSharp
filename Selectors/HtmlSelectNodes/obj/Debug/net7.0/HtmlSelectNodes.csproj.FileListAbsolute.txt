@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlSelectNodes
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlSelectNodes.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlSelectNodes.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlSelectNodes.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlSelectNodes.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.csproj.CopyComplete
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/refint/HtmlSelectNodes.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/HtmlSelectNodes.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/obj/Debug/net7.0/ref/HtmlSelectNodes.dll
