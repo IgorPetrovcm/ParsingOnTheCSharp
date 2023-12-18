@@ -21,7 +21,7 @@ class LoadUsingHtmlFile
 
         doc.LoadHtml(html: htmlText);
 
-        doc.Save("index2.html");
+        doc.Save(filename: "index2.html");
     }
     //manual create html file
     static void ManualCreateFile() 
