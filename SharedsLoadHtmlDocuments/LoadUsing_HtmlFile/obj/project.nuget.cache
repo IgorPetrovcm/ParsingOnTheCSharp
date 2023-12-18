@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JI2K2BBhHytilD1oUGwLBvsalGAPIZ2ZTHJGDj9QPJqRsLOQDLub6V/KdIvr+UA5bvVo4+SPcVt/XvMLU1lHQA==",
+  "dgSpecHash": "BEIueSENYGT/eGAyyFVrtXYFCOaEpQxbnTBMO9WV6L34iESh6zQz1OsXqXfKNS1Uluijk0VDm/x6eM++BhwwaQ==",
   "success": true,
   "projectFilePath": "/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/LoadUsing_HtmlFile.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/htmlagilitypack/1.11.55/htmlagilitypack.1.11.55.nupkg.sha512"
+  ],
   "logs": []
 }
