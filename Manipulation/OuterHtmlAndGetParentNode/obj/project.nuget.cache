@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTAgHKFW9m7vcJU6da5VQY46s3pwgQ30bzEZGCXc2KvoStAZ6t9V1Ht9ccZCqk5YKHAfihjia54frJYTNbE2uA==",
+  "success": true,
+  "projectFilePath": "/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/OuterHtmlAndGetParentNode.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/htmlagilitypack/1.11.55/htmlagilitypack.1.11.55.nupkg.sha512"
+  ],
+  "logs": []
+}
