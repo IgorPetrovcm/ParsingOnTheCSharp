@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/v0pKnQ4sCwsm9tdj0miBItpM8vvmWiY51W/zfNXgDjLvVMep7xdQ9EnEyRME+NKihVn5kGbSgm9z735ZEnEdg==",
+  "success": true,
+  "projectFilePath": "/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/InnerTextAndHtml.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/htmlagilitypack/1.11.55/htmlagilitypack.1.11.55.nupkg.sha512"
+  ],
+  "logs": []
+}

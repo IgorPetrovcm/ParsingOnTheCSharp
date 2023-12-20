@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/InnerTextAndHtml
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/InnerTextAndHtml.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/InnerTextAndHtml.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/InnerTextAndHtml.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/InnerTextAndHtml.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.csproj.CopyComplete
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/refint/InnerTextAndHtml.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/InnerTextAndHtml.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/InnerTextAndHtml/obj/Debug/net7.0/ref/InnerTextAndHtml.dll
