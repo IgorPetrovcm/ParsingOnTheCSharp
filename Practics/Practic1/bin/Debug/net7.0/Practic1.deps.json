@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Practic1/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.56"
+        },
+        "runtime": {
+          "Practic1.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.56": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.56.0",
+            "fileVersion": "1.11.56.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practic1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.56": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qG/6qrLH4jicdFfY1k/EpHHSKZJHI+hZiPSMM2ylr6YdHNlp2SHVIfuKNBdNi0Bqa13e7E9WmLaHGiXDmYqtEQ==",
+      "path": "htmlagilitypack/1.11.56",
+      "hashPath": "htmlagilitypack.1.11.56.nupkg.sha512"
+    }
+  }
+}

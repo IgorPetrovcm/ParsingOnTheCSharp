@@ -1,0 +1,17 @@
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\Practic1.exe
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\Practic1.deps.json
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\Practic1.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\Practic1.dll
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\Practic1.pdb
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.csproj.CopyComplete
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.dll
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\refint\Practic1.dll
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.pdb
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\Practic1.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\Practics\Practic1\obj\Debug\net7.0\ref\Practic1.dll
