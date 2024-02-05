@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/OuterHtmlAndGetParentNode
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/OuterHtmlAndGetParentNode.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/OuterHtmlAndGetParentNode.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/OuterHtmlAndGetParentNode.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/OuterHtmlAndGetParentNode.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.csproj.CopyComplete
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/refint/OuterHtmlAndGetParentNode.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/OuterHtmlAndGetParentNode.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/Manipulation/OuterHtmlAndGetParentNode/obj/Debug/net7.0/ref/OuterHtmlAndGetParentNode.dll

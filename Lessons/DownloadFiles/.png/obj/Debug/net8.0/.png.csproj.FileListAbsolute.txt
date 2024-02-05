@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\bin\Debug\net8.0\.png.exe
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\bin\Debug\net8.0\.png.deps.json
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\bin\Debug\net8.0\.png.runtimeconfig.json
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\bin\Debug\net8.0\.png.dll
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\bin\Debug\net8.0\.png.pdb
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.AssemblyInfo.cs
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.sourcelink.json
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.dll
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\refint\.png.dll
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.pdb
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\.png.genruntimeconfig.cache
+C:\Users\igorp\Programming\ParsingOnTheCSharp\Lessons\DownloadFiles\.png\obj\Debug\net8.0\ref\.png.dll

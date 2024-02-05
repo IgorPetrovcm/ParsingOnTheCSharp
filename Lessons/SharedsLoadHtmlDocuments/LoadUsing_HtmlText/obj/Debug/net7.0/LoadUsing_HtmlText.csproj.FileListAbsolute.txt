@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/LoadUsing_HtmlText
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/LoadUsing_HtmlText.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/LoadUsing_HtmlText.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/LoadUsing_HtmlText.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/LoadUsing_HtmlText.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.csproj.CopyComplete
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/refint/LoadUsing_HtmlText.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/LoadUsing_HtmlText.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlText/obj/Debug/net7.0/ref/LoadUsing_HtmlText.dll

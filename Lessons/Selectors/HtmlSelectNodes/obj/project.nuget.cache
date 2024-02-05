@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9L4JqLNwBFFZRckoq4enCDD5zUDP2A3XbV5qJG80UlnHDdliseBs16bTvB2rAgcz6TbqnMZ1BAtXEaY7A1Hkg==",
+  "success": true,
+  "projectFilePath": "/home/admin/General/csStudy/ParsingOnTheCSharp/Selectors/HtmlSelectNodes/HtmlSelectNodes.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/htmlagilitypack/1.11.55/htmlagilitypack.1.11.55.nupkg.sha512"
+  ],
+  "logs": []
+}

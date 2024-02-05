@@ -1,0 +1,17 @@
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/LoadUsing_HtmlFile
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/LoadUsing_HtmlFile.deps.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/LoadUsing_HtmlFile.runtimeconfig.json
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/LoadUsing_HtmlFile.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/LoadUsing_HtmlFile.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.AssemblyInfoInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.AssemblyInfo.cs
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.csproj.CoreCompileInputs.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/refint/LoadUsing_HtmlFile.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.pdb
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.genruntimeconfig.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/ref/LoadUsing_HtmlFile.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/bin/Debug/net7.0/HtmlAgilityPack.dll
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.csproj.AssemblyReference.cache
+/home/admin/General/csStudy/ParsingOnTheCSharp/SharedsLoadHtmlDocuments/LoadUsing_HtmlFile/obj/Debug/net7.0/LoadUsing_HtmlFile.csproj.CopyComplete
