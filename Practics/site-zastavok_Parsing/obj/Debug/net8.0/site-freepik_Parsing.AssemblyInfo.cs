@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("site-freepik_Parsing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82b2ca9b175ffabd84fba0bb25b838b89d48d3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4499353e8f7f421eba826dc416dfa56a1eec522d")]
 [assembly: System.Reflection.AssemblyProductAttribute("site-freepik_Parsing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("site-freepik_Parsing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

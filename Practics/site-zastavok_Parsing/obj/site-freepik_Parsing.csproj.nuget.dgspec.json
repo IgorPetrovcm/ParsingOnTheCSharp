@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj": {}
+    "C:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj": {
+    "C:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj",
+        "projectUniqueName": "C:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj",
         "projectName": "site-freepik_Parsing",
-        "projectPath": "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj",
+        "projectPath": "C:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj",
         "packagesPath": "C:\\Users\\igorp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\obj\\",
+        "outputPath": "C:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igorp\\AppData\\Roaming\\NuGet\\NuGet.Config"

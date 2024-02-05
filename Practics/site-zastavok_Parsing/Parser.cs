@@ -7,7 +7,7 @@ using HtmlAgilityPack;
 
 public class Parser
 {
-    private static HttpClient? httpClient;
+    private HttpClient httpClient;
     private static HtmlDocument? _document;
 
     private static HtmlWeb _web = new HtmlWeb();
@@ -32,55 +32,36 @@ public class Parser
         {
             HtmlNode? nodeWithHref = node.SelectSingleNode("div/div[1]/a");
 
-            foreach (HtmlAttribute attribute in nodeWithHref.Attributes)
-            {
-                if (attribute.Name == "href")
-                {
-                    urlAddresses.Add(_mainUrl + attribute.Value);
-                    break;
-                }
-            }
+            urlAddresses.Add(_mainUrl + nodeWithHref.Attributes["href"].Value);
+
         }
         
         foreach (string path in urlAddresses)
         {
             _document = _web.Load(path);
 
-            HtmlNode href = _document.DocumentNode.SelectSingleNode("/html/body/div[3]/span/div[3]/div/div[3]/div[1]/div[2]/div[1]/a");
+            HtmlNode hrefDownload = _document.DocumentNode.SelectSingleNode("/html/body/div[3]/span/div[3]/div/div[3]/div[1]/div[2]/div[1]/a");
 
-            
-
-            /*foreach (HtmlAttribute attribute in hrefDownload.Attributes)
+            using (HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, _mainUrl + hrefDownload.Attributes["href"].Value))
             {
-                if (attribute.Name == "href")
-                {
-                    using (HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, _mainUrl + attribute.Value))
+                    try 
                     {
-                        try 
-                        {
-                            httpClient = new HttpClient();
+                        httpClient = new HttpClient();
 
-                            HttpResponseMessage response = await httpClient.SendAsync(request);
+                        HttpResponseMessage response = httpClient.SendAsync(request).Result;
 
-                            try
-                            {
-                                FileStream fs = new FileStream(path + Regex.Match(attribute.Value, @"/,\d[1,9],/")+".jpg", FileMode.CreateNew, FileAccess.Write);
-                            }
-                            catch (Exception ex)
-                            {
-                                System.Console.WriteLine(ex);
-                            }
-                        }
-                        catch (Exception ex)
-                        {
-                            System.Console.WriteLine(ex);
-                        }
+                    
+                        FileStream fs = new FileStream(srcPath + Regex.Match(
+                                hrefDownload.Attributes["href"].Value, @"\d{1,9}")+".jpg",
+                                    FileMode.Create, FileAccess.Write);
                         
-
-
+                        response.Content.CopyToAsync(fs);
                     }
-                }
-            }*/
+                    catch (Exception ex)
+                    {
+                        System.Console.WriteLine(ex);
+                    }
+            }
         }
         
     }

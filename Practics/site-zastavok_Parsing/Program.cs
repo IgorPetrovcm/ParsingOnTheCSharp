@@ -7,6 +7,6 @@ public class Program
     {
         Parser parser = new Parser();
 
-        parser.DownloadPictures("");
+        parser.DownloadPictures(@"C:\Users\igorp\Programming\ParsingOnTheCSharp\Practics\site-zastavok_Parsing\source\");
     }
 }
