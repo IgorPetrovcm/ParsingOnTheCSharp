@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "site-freepik_Parsing/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.58"
+        },
+        "runtime": {
+          "site-freepik_Parsing.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.58": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.58.0",
+            "fileVersion": "1.11.58.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "site-freepik_Parsing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/LzjIKoAWdyXOn6o+zJTN2qpNIwfaDWbSQ974pVRwnzHsUFohIOSILdtkPrSO6YC38MNj4nDbpr1RkVBDE1RWQ==",
+      "path": "htmlagilitypack/1.11.58",
+      "hashPath": "htmlagilitypack.1.11.58.nupkg.sha512"
+    }
+  }
+}

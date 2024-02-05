@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyCWS7rIk2YpiBt2TXBULZD59euR3VwrHzXJ/MhZ2kQTgnoenuIvrQ2p/sFLR6x7IwSyeajsIxAs4wxf+NjfWw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\igorp\\Programming\\ParsingOnTheCSharp\\Practics\\site-zastavok_Parsing\\site-freepik_Parsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorp\\.nuget\\packages\\htmlagilitypack\\1.11.58\\htmlagilitypack.1.11.58.nupkg.sha512"
+  ],
+  "logs": []
+}
